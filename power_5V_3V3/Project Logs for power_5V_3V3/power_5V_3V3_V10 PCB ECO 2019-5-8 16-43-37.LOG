@@ -1,0 +1,5 @@
+Added Component: Designator=INPUT_5V(HDR2.54-WI-2P)
+Added Pin To Net: NetName=USB+5V Pin=INPUT_5V-1
+Added Pin To Net: NetName=GND Pin=INPUT_5V-2
+Added Member To Class: ClassName=power_5V_3V3_V10 Member=Component INPUT_5V Header 2
+Added Room: Name=power_5V_3V3_V10

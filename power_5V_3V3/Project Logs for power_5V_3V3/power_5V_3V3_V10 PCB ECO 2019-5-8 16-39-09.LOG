@@ -1,0 +1,64 @@
+Added Component: Designator=C1(C 0603_M)
+Added Component: Designator=C2(C 0603_M)
+Added Component: Designator=C3(C 0603_M)
+Added Component: Designator=C4(C 0603_M)
+Added Component: Designator=C5(C 0603_M)
+Added Component: Designator=F1(FU 1206)
+Added Component: Designator=P_3V3(HDR2.54-LI-2x4P)
+Added Component: Designator=P_5V(HDR2.54-LI-2x4P)
+Added Component: Designator=P_GND(HDR2.54-LI-2x5P)
+Added Component: Designator=U1(SOT223_M)
+Added Component: Designator=USB(USB-micro_A)
+Added Pin To Net: NetName=+3V3 Pin=C2-2
+Added Pin To Net: NetName=+3V3 Pin=C3-2
+Added Pin To Net: NetName=+3V3 Pin=P_3V3-1
+Added Pin To Net: NetName=+3V3 Pin=P_3V3-2
+Added Pin To Net: NetName=+3V3 Pin=P_3V3-3
+Added Pin To Net: NetName=+3V3 Pin=P_3V3-4
+Added Pin To Net: NetName=+3V3 Pin=P_3V3-5
+Added Pin To Net: NetName=+3V3 Pin=P_3V3-6
+Added Pin To Net: NetName=+3V3 Pin=P_3V3-7
+Added Pin To Net: NetName=+3V3 Pin=P_3V3-8
+Added Pin To Net: NetName=+3V3 Pin=U1-2
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+5V Pin=C1-2
+Added Pin To Net: NetName=+5V Pin=C4-2
+Added Pin To Net: NetName=+5V Pin=C5-2
+Added Pin To Net: NetName=+5V Pin=F1-2
+Added Pin To Net: NetName=+5V Pin=P_5V-1
+Added Pin To Net: NetName=+5V Pin=P_5V-2
+Added Pin To Net: NetName=+5V Pin=P_5V-3
+Added Pin To Net: NetName=+5V Pin=P_5V-4
+Added Pin To Net: NetName=+5V Pin=P_5V-5
+Added Pin To Net: NetName=+5V Pin=P_5V-6
+Added Pin To Net: NetName=+5V Pin=P_5V-7
+Added Pin To Net: NetName=+5V Pin=P_5V-8
+Added Pin To Net: NetName=+5V Pin=U1-3
+Added Net: Name=+5V
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=P_GND-1
+Added Pin To Net: NetName=GND Pin=P_GND-2
+Added Pin To Net: NetName=GND Pin=P_GND-3
+Added Pin To Net: NetName=GND Pin=P_GND-4
+Added Pin To Net: NetName=GND Pin=P_GND-5
+Added Pin To Net: NetName=GND Pin=P_GND-6
+Added Pin To Net: NetName=GND Pin=P_GND-7
+Added Pin To Net: NetName=GND Pin=P_GND-8
+Added Pin To Net: NetName=GND Pin=P_GND-9
+Added Pin To Net: NetName=GND Pin=P_GND-10
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=USB-5
+Added Pin To Net: NetName=GND Pin=USB-5
+Added Pin To Net: NetName=GND Pin=USB-5
+Added Pin To Net: NetName=GND Pin=USB-5
+Added Pin To Net: NetName=GND Pin=USB-5
+Added Net: Name=GND
+Added Pin To Net: NetName=USB+5V Pin=F1-1
+Added Pin To Net: NetName=USB+5V Pin=USB-1
+Added Net: Name=USB+5V
+Added Class: Name=power_5V_3V3_V10
+Added Room: Name=power_5V_3V3_V10

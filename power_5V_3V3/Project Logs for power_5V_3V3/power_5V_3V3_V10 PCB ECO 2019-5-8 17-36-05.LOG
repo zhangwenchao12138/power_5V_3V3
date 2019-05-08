@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=3V3 NewDesignator=P_3V3
+Change Component Designator: OldDesignator=5V NewDesignator=P_5V
+Change Component Designator: OldDesignator=GND NewDesignator=P_GND
+Added Component: Designator=LED1(LED 0603Y)
+Added Component: Designator=R1(R 0603-HP_M)
+Added Pin To Net: NetName=+3V3 Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R1-2
+Added Net: Name=NetLED1_2
+Added Member To Class: ClassName=power_5V_3V3_V10 Member=Component LED1 5V
+Added Member To Class: ClassName=power_5V_3V3_V10 Member=Component R1 R1K
+Added Room: Name=power_5V_3V3_V10
