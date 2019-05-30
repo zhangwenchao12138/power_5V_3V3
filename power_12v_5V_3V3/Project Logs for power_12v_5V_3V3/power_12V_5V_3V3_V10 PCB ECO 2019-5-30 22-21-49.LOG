@@ -1,0 +1,93 @@
+Added Component: Designator=C1(C 0603_M)
+Added Component: Designator=C2(C 0603_M)
+Added Component: Designator=C3(C 0603_M)
+Added Component: Designator=C4(C 0603_M)
+Added Component: Designator=C5(C 0603_M)
+Added Component: Designator=C6(C 0603_M)
+Added Component: Designator=C7(C 0603_M)
+Added Component: Designator=C8(C 0603_M)
+Added Component: Designator=F1(FU 1812)
+Added Component: Designator=LED1(LED 0603Y)
+Added Component: Designator=M1(M3X10_L)
+Added Component: Designator=M2(M3X10_L)
+Added Component: Designator=M3(M3X10_L)
+Added Component: Designator=M4(M3X10_L)
+Added Component: Designator=P1(DC-5MM)
+Added Component: Designator=P_3V3(HDR2.54-LI-2x4P)
+Added Component: Designator=P_5V(HDR2.54-LI-2x4P)
+Added Component: Designator=P_12V(HDR2.54-LI-2x4P)
+Added Component: Designator=P_GND(HDR2.54-LI-2x5P)
+Added Component: Designator=R1(R 0603-HP_M)
+Added Component: Designator=U0(SOT223_M)
+Added Component: Designator=U1(SOT223_M)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+5V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+3V3 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+3V3 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+5V Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+5V Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+5V Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+5V Pin=C8-2
+Added Pin To Net: NetName=+3V3 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=+3V3 Pin=P_3V3-1
+Added Pin To Net: NetName=+3V3 Pin=P_3V3-2
+Added Pin To Net: NetName=+3V3 Pin=P_3V3-3
+Added Pin To Net: NetName=+3V3 Pin=P_3V3-4
+Added Pin To Net: NetName=+3V3 Pin=P_3V3-5
+Added Pin To Net: NetName=+3V3 Pin=P_3V3-6
+Added Pin To Net: NetName=+3V3 Pin=P_3V3-7
+Added Pin To Net: NetName=+3V3 Pin=P_3V3-8
+Added Pin To Net: NetName=+5V Pin=P_5V-1
+Added Pin To Net: NetName=+5V Pin=P_5V-2
+Added Pin To Net: NetName=+5V Pin=P_5V-3
+Added Pin To Net: NetName=+5V Pin=P_5V-4
+Added Pin To Net: NetName=+5V Pin=P_5V-5
+Added Pin To Net: NetName=+5V Pin=P_5V-6
+Added Pin To Net: NetName=+5V Pin=P_5V-7
+Added Pin To Net: NetName=+5V Pin=P_5V-8
+Added Pin To Net: NetName=GND Pin=P_GND-1
+Added Pin To Net: NetName=GND Pin=P_GND-2
+Added Pin To Net: NetName=GND Pin=P_GND-3
+Added Pin To Net: NetName=GND Pin=P_GND-4
+Added Pin To Net: NetName=GND Pin=P_GND-5
+Added Pin To Net: NetName=GND Pin=P_GND-6
+Added Pin To Net: NetName=GND Pin=P_GND-7
+Added Pin To Net: NetName=GND Pin=P_GND-8
+Added Pin To Net: NetName=GND Pin=P_GND-9
+Added Pin To Net: NetName=GND Pin=P_GND-10
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetLED1_2 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=U0-1
+Added Pin To Net: NetName=+5V Pin=U0-2
+Added Pin To Net: NetName=+5V Pin=U0-4
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=+3V3 Pin=U1-2
+Added Pin To Net: NetName=+5V Pin=U1-3
+Added Pin To Net: NetName=+3V3 Pin=U1-4
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=P1-2
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=POWER_DC Pin=C6-2
+Added Pin To Net: NetName=POWER_DC Pin=F1-2
+Added Pin To Net: NetName=POWER_DC Pin=P_12V-1
+Added Pin To Net: NetName=POWER_DC Pin=P_12V-2
+Added Pin To Net: NetName=POWER_DC Pin=P_12V-3
+Added Pin To Net: NetName=POWER_DC Pin=P_12V-4
+Added Pin To Net: NetName=POWER_DC Pin=P_12V-5
+Added Pin To Net: NetName=POWER_DC Pin=P_12V-6
+Added Pin To Net: NetName=POWER_DC Pin=P_12V-7
+Added Pin To Net: NetName=POWER_DC Pin=P_12V-8
+Added Pin To Net: NetName=POWER_DC Pin=U0-3
+Added Net: Name=POWER_DC
+Added Class: Name=power_12V_5V_3V3_V10
+Added Room: Name=power_12V_5V_3V3_V10
